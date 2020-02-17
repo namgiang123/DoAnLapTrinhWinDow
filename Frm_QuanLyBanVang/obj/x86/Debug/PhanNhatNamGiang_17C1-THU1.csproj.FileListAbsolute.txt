@@ -1,0 +1,21 @@
+c:\users\kcntt\documents\visual studio 2010\Projects\PhanNhatNamGiang_17C1-THU1\bin\Debug\PhanNhatNamGiang_17C1-THU1.exe
+c:\users\kcntt\documents\visual studio 2010\Projects\PhanNhatNamGiang_17C1-THU1\bin\Debug\PhanNhatNamGiang_17C1-THU1.pdb
+c:\users\kcntt\documents\visual studio 2010\Projects\PhanNhatNamGiang_17C1-THU1\obj\x86\Debug\PhanNhatNamGiang_17C1_THU1.Properties.Resources.resources
+c:\users\kcntt\documents\visual studio 2010\Projects\PhanNhatNamGiang_17C1-THU1\obj\x86\Debug\PhanNhatNamGiang_17C1-THU1.csproj.GenerateResource.Cache
+c:\users\kcntt\documents\visual studio 2010\Projects\PhanNhatNamGiang_17C1-THU1\obj\x86\Debug\PhanNhatNamGiang_17C1-THU1.exe
+c:\users\kcntt\documents\visual studio 2010\Projects\PhanNhatNamGiang_17C1-THU1\obj\x86\Debug\PhanNhatNamGiang_17C1-THU1.pdb
+c:\users\kcntt\documents\visual studio 2010\Projects\PhanNhatNamGiang_17C1-THU1\obj\x86\Debug\PhanNhatNamGiang_17C1_THU1.Frm_QuanLyVang.resources
+C:\Users\KCNTT\Documents\Frm_QuanLyBanVang\obj\x86\Debug\PhanNhatNamGiang_17C1-THU1.exe
+C:\Users\KCNTT\Documents\Frm_QuanLyBanVang\obj\x86\Debug\PhanNhatNamGiang_17C1-THU1.pdb
+C:\Users\KCNTT\Documents\Frm_QuanLyBanVang\bin\Debug\PhanNhatNamGiang_17C1-THU1.exe
+C:\Users\KCNTT\Documents\Frm_QuanLyBanVang\bin\Debug\PhanNhatNamGiang_17C1-THU1.pdb
+C:\Users\KCNTT\Documents\Frm_QuanLyBanVang\obj\x86\Debug\PhanNhatNamGiang_17C1_THU1.Frm_QuanLyVang.resources
+C:\Users\KCNTT\Documents\Frm_QuanLyBanVang\obj\x86\Debug\PhanNhatNamGiang_17C1_THU1.Properties.Resources.resources
+C:\Users\KCNTT\Documents\Frm_QuanLyBanVang\obj\x86\Debug\PhanNhatNamGiang_17C1-THU1.csproj.GenerateResource.Cache
+E:\_\LT Window\Frm_QuanLyBanVang\obj\x86\Debug\PhanNhatNamGiang_17C1-THU1.exe
+E:\_\LT Window\Frm_QuanLyBanVang\obj\x86\Debug\PhanNhatNamGiang_17C1-THU1.pdb
+E:\_\LT Window\Frm_QuanLyBanVang\bin\Debug\PhanNhatNamGiang_17C1-THU1.exe
+E:\_\LT Window\Frm_QuanLyBanVang\bin\Debug\PhanNhatNamGiang_17C1-THU1.pdb
+E:\_\LT Window\Frm_QuanLyBanVang\obj\x86\Debug\PhanNhatNamGiang_17C1_THU1.Frm_QuanLyVang.resources
+E:\_\LT Window\Frm_QuanLyBanVang\obj\x86\Debug\PhanNhatNamGiang_17C1_THU1.Properties.Resources.resources
+E:\_\LT Window\Frm_QuanLyBanVang\obj\x86\Debug\PhanNhatNamGiang_17C1-THU1.csproj.GenerateResource.Cache

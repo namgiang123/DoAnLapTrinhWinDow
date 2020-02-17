@@ -1,0 +1,8 @@
+c:\users\kcntt\documents\visual studio 2010\Projects\PhanNhatNamGiang_17C1-THU1\Quan Ly Ban Ve Xe Bus\bin\Debug\Quan Ly Ban Ve Xe Bus.exe
+c:\users\kcntt\documents\visual studio 2010\Projects\PhanNhatNamGiang_17C1-THU1\Quan Ly Ban Ve Xe Bus\bin\Debug\Quan Ly Ban Ve Xe Bus.pdb
+c:\users\kcntt\documents\visual studio 2010\Projects\PhanNhatNamGiang_17C1-THU1\Quan Ly Ban Ve Xe Bus\obj\x86\Debug\Quan_Ly_Ban_Ve_Xe_Bus.Form1.resources
+c:\users\kcntt\documents\visual studio 2010\Projects\PhanNhatNamGiang_17C1-THU1\Quan Ly Ban Ve Xe Bus\obj\x86\Debug\Quan_Ly_Ban_Ve_Xe_Bus.Properties.Resources.resources
+c:\users\kcntt\documents\visual studio 2010\Projects\PhanNhatNamGiang_17C1-THU1\Quan Ly Ban Ve Xe Bus\obj\x86\Debug\Quan Ly Ban Ve Xe Bus.csproj.GenerateResource.Cache
+c:\users\kcntt\documents\visual studio 2010\Projects\PhanNhatNamGiang_17C1-THU1\Quan Ly Ban Ve Xe Bus\obj\x86\Debug\Quan Ly Ban Ve Xe Bus.exe
+c:\users\kcntt\documents\visual studio 2010\Projects\PhanNhatNamGiang_17C1-THU1\Quan Ly Ban Ve Xe Bus\obj\x86\Debug\Quan Ly Ban Ve Xe Bus.pdb
+C:\Users\KCNTT\Documents\Visual Studio 2010\Projects\PhanNhatNamGiang_17C1-THU1\Quan Ly Ban Ve Xe Bus\obj\x86\Debug\Quan Ly Ban Ve Xe Bus.csprojResolveAssemblyReference.cache
